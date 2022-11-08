@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './App.css'
 import OrgChart from '@unicef/react-org-chart'
-import { BrowserRouter, Route, useParams, withRouter } from 'react-router-dom'
+import { withRouter } from 'react-router-dom'
 import { tree, tree1, tree2, tree3, tree4 } from './Tree'
 import avatarPersonnel from './assets/avatar-personnel.svg'
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import { BrowserRouter, Route, useParams } from 'react-router-dom'
+import { BrowserRouter, Route } from 'react-router-dom'
 import Chart from './Chart'
 import ForbiddenRoute from './403'
 
